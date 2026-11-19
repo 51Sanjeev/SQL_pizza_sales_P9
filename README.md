@@ -115,7 +115,3 @@ Through this project, I strengthened my understanding of SQL and gained practica
 - Using subqueries and CTEs to simplify complex queries.
 - Applying window functions for ranking and cumulative calculations.
 - Translating business questions into SQL queries and meaningful insights.
-
-Aspiring Data Analyst | SQL | Python | Excel | Power BI
-
-[GitHub Profile](https://github.com/51Sanjeev)
